@@ -1,6 +1,6 @@
 ---
 excerpt_separator: <!--more-->
-layout: post
+layout: single
 title: Example Post number 1
 published: true
 tags: tag1 trident astra
