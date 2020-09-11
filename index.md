@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  image: /assets/images/barrels1.jpg
+  image: /assets/images/distillery-barrels-591602_1280.jpg
 ---
 
 
